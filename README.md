@@ -1,2 +1,13 @@
-# SQL-Book-Store
-This is a SQL Project of a bookstore, comprising of Orders, Books and the Customers. With the help of SQL, I have extracted data from all three table, which are in a relation.
+# 📚 Book Store Sales Analysis (Using SQL)
+This project uses fictional data from an online bookstore that tracks books, customers, and orders.
+The goal is to analyze business performance using SQL:
+
+What are customers buying?
+
+Which genres and authors are most popular?
+
+Where is the store earning the most revenue?
+
+It simulates the kind of data an e-commerce bookstore (like Amazon Books) might track to make better decisions.
+
+
