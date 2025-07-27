@@ -1,4 +1,9 @@
 # 📚 Book Store Sales Analysis (Using SQL)
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![SQL](https://img.shields.io/badge/Language-SQL-lightgrey)
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen) 
+
 This project uses fictional data from an online bookstore that tracks books, customers, and orders.
 The goal is to analyze business performance using SQL:
 What are customers buying?
